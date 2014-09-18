@@ -21,6 +21,7 @@ Uses find-and-replace module
   %Footer%
   ```
   
+  Terminal Command:
   ```
   fandr myFile.txt newFile.txt '{"%Heading%": "Good Morning San Diego!", "%Footer%": "Yaz Flute"}'
   ```
