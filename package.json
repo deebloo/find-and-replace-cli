@@ -1,11 +1,26 @@
 {
   "name": "find-and-replace-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node js find and replace command line tool",
   "main": "fandr.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DannyBlueDesign/find-and-replace-cli.git"
+  },
+  "keywords": [
+    "find",
+    "and",
+    "replace",
+    "regex",
+    "replace text",
+    "find and replace",
+    "cli",
+    "terminal",
+    "command line"
+  ],
   "author": "Danny Blue <dannybluedesign@gmail.com> (http://dannybluedesign.com/)",
   "license": "ISC",
   "dependencies": {
