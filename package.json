@@ -1,0 +1,18 @@
+{
+  "name": "find-and-replace-cli",
+  "version": "0.1.0",
+  "description": "Node js find and replace command line tool",
+  "main": "fandr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Blue <dannybluedesign@gmail.com> (http://dannybluedesign.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "find-and-replace": "0.0.6"
+  },
+  "bin": {
+    "fandr": "fandr.js"
+  }
+}
