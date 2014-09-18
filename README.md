@@ -20,8 +20,7 @@ Uses find-and-replace module
   
   %Footer%
   ```
-    
-  app.js
+  
   ```
   fandr myFile.txt newFile.txt '{"%Heading%": "Good Morning San Diego!", "%Footer%": "Yaz Flute"}'
   ```
