@@ -7,7 +7,7 @@ Uses find-and-replace module
 
 ## Installation
   ```
-  npm install find-and-replace-cli --save
+  npm install find-and-replace-cli
   ```
 
 ## Usage
